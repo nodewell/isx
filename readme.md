@@ -1,4 +1,4 @@
-# ![logo](logo/js-util-is-logo.png)
+# ![js-util-is](logo/js-util-is-logo.png)
 
 # License
 
